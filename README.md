@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ICeRixx
+- 👀 I’m interested in Cats
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to learn
